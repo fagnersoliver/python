@@ -11,3 +11,5 @@ if(numero_secreto == int(chute)):
     print("e você acertou")
 else:
     print("e você Errou")
+
+print("Fim do jogo")
